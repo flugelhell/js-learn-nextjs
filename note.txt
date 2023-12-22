@@ -1,0 +1,10 @@
+1. Belajar React
+   - https://nextjs.org/learn/react-foundations
+2. Belajar Nextjs
+   - https://nextjs.org/learn
+   
+   2.1 Installation
+      - npx create-next-app@latest nextjs-dashboard --use-npm --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example"
+      - for install dependencies use: npm i
+
+      https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages
